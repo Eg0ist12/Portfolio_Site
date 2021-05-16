@@ -1,19 +1,14 @@
-## Welcome to GitHub Pages
+## Nelson's Portfolio Site
 
-You can use the [editor on GitHub](https://github.com/Eg0ist12/Portfolio_Site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome! This is a site made to showcase my projects(Mainly Data Science).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Azure DP-100 Project Showcase
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This section is designed to showcase my solutions from Azure's DP-100 coding challenges with Python. Solutions are presented thru Jupyter Notebook.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+** [Project 1: Azure's Real Estate Price Prediction Challenge](https://github.com/NJLDVera/Portfolio_Site) **
 
 - Bulleted
 - List
