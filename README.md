@@ -1,32 +1,51 @@
-## Nelson's Portfolio Site
+# [Nelson's Portfolio Site](https://github.com/NJLDVera/Portfolio_Site)
 
 Welcome! This is a site made to showcase my projects(Mainly Data Science).
 
-### Azure DP-100 Project Showcase
+## Azure's DP-100 Project Showcase
 
 This section is designed to showcase my solutions from Azure's DP-100 coding challenges with Python. Solutions are presented thru Jupyter Notebook.
 
-```markdown
+**[Project 1: Azure's Real Estate Price Prediction Challenge](https://github.com/NJLDVera/DP100RealEstateChallenge)**
 
-** [Project 1: Azure's Real Estate Price Prediction Challenge](https://github.com/NJLDVera/Portfolio_Site) **
+* This is a programming challenge that seeks to predict property prices based on different factors.
+* Cleansed the data to make it suitable for data analysis.
+* Explored the data using Matplotlib library to see relevant features in the dataset.
+* Built ML Pipeline using scikit-learn to scale feature values. 
+* Used gradientboostingregressor as the ML algorithm.
+* Achieved 6.18 RMSE score with minimal tuning.
 
-- Bulleted
-- List
+![](images/Real_estate.PNG)
 
-1. Numbered
-2. List
+**[Project 2: Azure's Wine Classification Challenge](https://github.com/NJLDVera/DP100WineClassificationChallenge)**
 
-**Bold** and _Italic_ and `Code` text
+* This is a programming challenge that tasks the user to predict what wine variety based on multiple factors.
+* Cleansed the data to make it suitable for data analysis.
+* Explored the data using Matplotlib library to see relevant features in the dataset.
+* Built ML Pipeline using scikit-learn to scale feature values. 
+* Used RandomForestClassifier as the ML algorithm.
+* Achieved 1.0 score in all relevant metrics(Accuracy, Precision, Recall, f1-score).
+* Saved the model as pkl file.
 
-[Link](url) and ![Image](src)
-```
+![](images/WineC.PNG)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Personal Projects
 
-### Jekyll Themes
+This section is dedicated for my personal projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eg0ist12/Portfolio_Site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**[Project 1: Szeged Apparent Apparent Temperature Predictor](https://github.com/NJLDVera/Szeged_Weather)**
+
+* This is a programming challenge that seeks to predict the apparent temperature.
+* Cleansed the data to make it suitable for data analysis.
+* Explored the data using Matplotlib library to see relevant features in the dataset.
+* Built ML Pipeline using scikit-learn to scale feature values. 
+* Used gradientboostingregressor as the ML algorithm.
+* Achieved 0.833 RMSE score with minimal tuning.
+* Dateset could be obtained [here](https://www.kaggle.com/budincsevity/szeged-weather).
+
+![](images/Szeged_Weather.PNG)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Linkedin: www.linkedin.com/in/njldevera/
+
