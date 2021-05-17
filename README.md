@@ -1,6 +1,6 @@
 # [Nelson's Portfolio Site](https://github.com/NJLDVera/Portfolio_Site)
 
-Welcome! This is a site made to showcase my projects(Mainly Data Science).
+### Welcome! This is a site made to showcase my projects(Mainly Data Science).
 
 ## Azure's DP-100 Project Showcase
 
@@ -47,5 +47,5 @@ This section is dedicated for my personal projects
 
 ### Support or Contact
 
-Linkedin: www.linkedin.com/in/njldevera/
+[Linkedin](www.linkedin.com/in/njldevera/)
 
