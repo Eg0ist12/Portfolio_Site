@@ -47,5 +47,5 @@ This section is dedicated for my personal projects
 
 ### Support or Contact
 
-[Linkedin](www.linkedin.com/in/njldevera/)
+[Linkedin](https://www.linkedin.com/in/njldevera)
 
