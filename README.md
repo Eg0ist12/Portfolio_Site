@@ -35,7 +35,7 @@ This section is dedicated for my personal projects
 
 **[Project 1: Szeged Apparent Apparent Temperature Predictor](https://github.com/NJLDVera/Szeged_Weather)**
 
-* This is a programming challenge that seeks to predict the apparent temperature.
+* This is a programming challenge that seeks to predict the apparent temperature of Szeged, Hungary.
 * Cleansed the data to make it suitable for data analysis.
 * Explored the data using Matplotlib library to see relevant features in the dataset.
 * Built ML Pipeline using scikit-learn to scale feature values. 
